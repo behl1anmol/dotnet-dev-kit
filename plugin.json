@@ -1,0 +1,15 @@
+{
+  "name": "dotnet-dev-kit",
+  "description": "A plugin for .NET development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anmol Behl",
+    "email": "behl1anmol@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["dotnet", "development", "efcore", "aspnet", "csharp", "api", "cli", "nuget", "linq", "wpf", "blazor", "mvc", "webapi", "core", "framework"],
+  "agents": "agents/",
+  "skills": ["skills/", "extra-skills/"],
+  "hooks": "hooks.json",
+  "mcpServers": ".mcp.json"
+}
